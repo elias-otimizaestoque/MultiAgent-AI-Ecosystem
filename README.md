@@ -12,6 +12,11 @@ Seja bem-vindo à **MultiAgent**, uma plataforma inovadora que redefine a maneir
 
 A **MultiAgent** é uma plataforma de agentes autônomos baseados em **LLMs** (Modelos de Linguagem de Última Geração) que **colaboram**, **analisam** e **executam** tarefas críticas em **tempo real**. Desenvolvida com **Google Gemini**, ela oferece:  
 
+
+
+https://github.com/user-attachments/assets/fa12a79a-c2d1-45a2-8e50-484ab1273ae4
+
+
 - 📊 **Análises de dados avançadas** para insights acionáveis.  
 - 🤖 **RPA (Automação Robótica)** para eliminação de tarefas manuais.  
 - 📦 **Gestão de estoque inteligente** com predições altamente precisas.  
